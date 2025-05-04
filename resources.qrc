@@ -1,0 +1,11 @@
+<RCC>
+    <qresource lang="C++" prefix="/icons">
+        <file>convert.png</file>
+        <file>count.png</file>
+        <file>eraser.png</file>
+        <file>sound.png</file>
+        <file>logo.png</file>
+        <file>wave-sound.png</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>
